@@ -15,7 +15,6 @@ I am an experienced QA learning code-based automation.
 - Layout: tests/ for specs, pages/ for page objects (one per screen).
 - Keep page objects simple; refactor after the second copy-paste.
 - Test names are declarative: "Login - valid user lands on products page".
-- Active task lives in docs/CURRENT_WORK.md. Do not expand scope.
 
 ## Git
 - Never commit or push without my confirmation. Propose the message.
